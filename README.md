@@ -40,6 +40,7 @@ That is where we come in. DPMD is authored by [Phusion](https://www.phusion.nl/)
 DPMD consists of tutorials that teach you step-by-step how all the different concepts of Debian packaging fit together. You will understand every aspect in sufficient detail so that you can be confident and quick, and so that when a problem occurs you know how to fix it. DPMD provides practical tips on how to package more efficiently and effectively.
 
 ## Tutorials
+[READ ME FIRST](https://www.debian.org/doc/manuals/maint-guide/dother.en.html)
 
 ### Preparation
 
